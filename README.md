@@ -1,24 +1,21 @@
-# README
+# Rails on Fire
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Intro
 
-Things you may want to cover:
+Rails on Fire is an example project used by the [Ruby on Fire](https://rubyonfire.com) blog to provide use case examples of Rails features and techniques.
 
-* Ruby version
+## Usage
 
-* System dependencies
+### Blog
 
-* Configuration
+Please visit the blog and read through any posts you desire. All posts are linked back to code examples in this project.
 
-* Database creation
+### Pull Requests
 
-* Database initialization
+Ever blog post has a matching PR with all the example code, you could read through any closed PR’s source code to understand how to implement a feature. All PR’s titles are appropriately named.
 
-* How to run the test suite
+### Source Code
 
-* Services (job queues, cache servers, search engines, etc.)
+You can also read through the source code of the project.
 
-* Deployment instructions
-
-* ...
+Enjoy!
